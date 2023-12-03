@@ -133,7 +133,7 @@ export const data = [
       name: "5 - Eyüp Aydın",
       img: "https://hlkiurt3.rocketcdn.com/profiles/423b322f30c74e32a9b0f6b5f6cd8ce1.jpeg",
       statistics: [
-        "Center Defensive Midfielder",
+        "Defensive Midfielder",
         "63 match",
         "4 goals",
         "10 assist",
@@ -173,7 +173,7 @@ export const data = [
       name: "34 - Lucas Torreira",
       img: "https://hlkiurt3.rocketcdn.com/profiles/9737066db374431d8679eecdc5c3492b.jpeg",
       statistics: [
-        "Center Defensive Midfielder",
+        "Defensive Midfielder",
         "343 match",
         "23 goals",
         "14 assist",
@@ -203,7 +203,7 @@ export const data = [
         name: "83 - Efe Akman",
         img: "https://hlkiurt3.rocketcdn.com/profiles/00ade2f3658c4592abc19b36b80d73f9.jpeg",
         statistics: [
-          "Center Defensive Midfielder",
+          "Defensive Midfielder",
           "26 match",
           "0 goals",
           "0 assist",
@@ -233,7 +233,7 @@ export const data = [
       name: "10 - Dries Mertens",
       img: "https://hlkiurt3.rocketcdn.com/profiles/c758a74207e24295b523a29185eb2dbf.jpeg",
       statistics: [
-        "Center Attacking Midfielder",
+        "Attacking Midfielder",
         "738 match",
         "257 goals",
         "191 assist",
