@@ -8,6 +8,7 @@ export const data = [
         "656 goals conceded",
         "203 goalless match",
       ],
+      detail: "https://www.galatasaray.org/p/1-fernando-muslera/847",
     },
     {
       name: "12 - Atakan Nuri Ordu",
@@ -18,6 +19,7 @@ export const data = [
         "18 goals conceded",
         "5 goalless match",
       ],
+      detail: "https://www.galatasaray.org/p/12-atakan-nuri-ordu/646"
     },
     {
       name: "19 - Günay Güvenç",
@@ -28,6 +30,7 @@ export const data = [
         "395 goals conceded",
         "91 goalless match",
       ],
+      detail: "https://www.galatasaray.org/p/19-gunay-guvenc/3133"
     },
     {
       name: "50 - Jankat Yılmaz",
@@ -38,6 +41,7 @@ export const data = [
         "16 goals conceded",
         "2 goalless match",
       ],
+      detail: "https://www.galatasaray.org/p/50-jankat-yilmaz/1024"
     },
     {
       name: "3 - Angeliño",
@@ -48,6 +52,7 @@ export const data = [
         "24 goals",
         "77 assist",
       ],
+      detail: "https://www.galatasaray.org/p/3-angelino/3126"
     },
     {
       name: "6 - Davinson Sánchez",
@@ -58,6 +63,7 @@ export const data = [
         "14 goals",
         "5 assist",
       ],
+      detail: "https://www.galatasaray.org/p/6-davinson-sanchez/3151"
     },
     {
       name: "23 - Kaan Ayhan",
@@ -68,6 +74,7 @@ export const data = [
         "51 goals",
         "34 assist",
       ],
+      detail: "https://www.galatasaray.org/p/23-kaan-ayhan/3108"
     },
     {
       name: "25 - Victor Nelsson",
@@ -78,6 +85,7 @@ export const data = [
         "5 goals",
         "4 assist",
       ],
+      detail: "https://www.galatasaray.org/p/25-victor-enok-nelsson/2671"
     },
     {
       name: "42 - Abdülkerim Bardakcı",
@@ -88,6 +96,7 @@ export const data = [
         "25 goals",
         "14 assist",
       ],
+      detail: "https://www.galatasaray.org/p/42-abdulkerim-bardakci/2924"
     },
     {
       name: "58 - Ali Yeşilyurt",
@@ -98,6 +107,7 @@ export const data = [
         "3 goals",
         "0 assist",
       ],
+      detail: "https://www.galatasaray.org/p/58-ali-yesilyurt/642"
     },
     {
       name: "72 - Ali Turap Bülbül",
@@ -108,6 +118,7 @@ export const data = [
         "3 goals",
         "6 assist",
       ],
+      detail: "https://www.galatasaray.org/p/72-ali-turap-bulbul/640"
     },
     {
       name: "88 - Kazımcan Karataş",
@@ -118,6 +129,7 @@ export const data = [
         "1 goals",
         "2 assist",
       ],
+      detail: "https://www.galatasaray.org/p/88-kazimcan-karatas/2930"
     },
     {
       name: "93 - Sacha Boey",
@@ -128,6 +140,7 @@ export const data = [
         "6 goals",
         "7 assist",
       ],
+      detail: "https://www.galatasaray.org/p/93-sacha-boey/2654"
     },
     {
       name: "5 - Eyüp Aydın",
@@ -138,6 +151,7 @@ export const data = [
         "4 goals",
         "10 assist",
       ],
+      detail: "https://www.galatasaray.org/p/5-eyup-aydin/3158"
     },
     {
       name: "8 - Kerem Demirbay",
@@ -148,6 +162,7 @@ export const data = [
         "66 goals",
         "78 assist",
       ],
+      detail: "https://www.galatasaray.org/p/8-kerem-demirbay/3135"
     },
     {
       name: "20 - Tetê",
@@ -158,6 +173,7 @@ export const data = [
         "41 goals",
         "27 assist",
       ],
+      detail: "https://www.galatasaray.org/p/20-tete/3137"
     },
     {
       name: "27 - Sergio Oliveira",
@@ -168,6 +184,7 @@ export const data = [
         "69 goals",
         "38 assist",
       ],
+      detail: "https://www.galatasaray.org/p/27-sergio-oliveira/2933"
     },
     {
       name: "34 - Lucas Torreira",
@@ -178,6 +195,7 @@ export const data = [
         "23 goals",
         "14 assist",
       ],
+      detail: "https://www.galatasaray.org/p/34-lucas-torreira/2975"
     },
     {
       name: "81 - Hamza Yiğit Akman",
@@ -188,6 +206,7 @@ export const data = [
         "21 goals",
         "18 assist",
       ],
+      detail: "https://www.galatasaray.org/p/81-hamza-yigit-akman/2837"
     },
     {
       name: "91 - Tanguy Ndombele",
@@ -198,6 +217,7 @@ export const data = [
         "19 goals",
         "35 assist",
       ],
+      detail: "https://www.galatasaray.org/p/91-tanguy-ndombele-alvaro/3152"
     },
     {
         name: "83 - Efe Akman",
@@ -208,6 +228,7 @@ export const data = [
           "0 goals",
           "0 assist",
         ],
+        detail: "https://www.galatasaray.org/p/efe-akman/617"
       },
     {
       name: "7 - Kerem Aktürkoğlu",
@@ -218,6 +239,7 @@ export const data = [
         "62 goals",
         "40 assist",
       ],
+      detail: "https://www.galatasaray.org/p/7-kerem-akturkoglu/2515"
     },
     {
       name: "9 - Mauro Icardi",
@@ -228,6 +250,7 @@ export const data = [
         "242 goals",
         "56 assist",
       ],
+      detail: "https://www.galatasaray.org/p/9-mauro-icardi/3028"
     },
     {
       name: "10 - Dries Mertens",
@@ -238,6 +261,7 @@ export const data = [
         "257 goals",
         "191 assist",
       ],
+      detail: "https://www.galatasaray.org/p/10-dries-mertens/2980"
     },
     {
       name: "14 - Wilfried Zaha",
@@ -248,6 +272,7 @@ export const data = [
         "97 goals",
         "79 assist",
       ],
+      detail: "https://www.galatasaray.org/p/14-wilfried-zaha/3136"
     },
     {
       name: "21 - Halil Dervişoğlu",
@@ -258,6 +283,7 @@ export const data = [
         "58 goals",
         "31 assist",
       ],
+      detail: "https://www.galatasaray.org/p/21-halil-dervisoglu/3134"
     },
     {
       name: "22- Hakim Ziyech",
@@ -268,6 +294,7 @@ export const data = [
         "129 goals",
         "139 assist",
       ],
+      detail: "https://www.galatasaray.org/p/22-hakim-ziyech/3146"
     },
     {
       name: "53 - Barış Alper Yılmaz",
@@ -278,6 +305,7 @@ export const data = [
         "17 goals",
         "14 assist",
       ],
+      detail: "https://www.galatasaray.org/p/53-baris-alper-yilmaz/2666"
     },
     {
       name: "56 - Baran Demiroğlu",
@@ -288,6 +316,7 @@ export const data = [
         "18 goals",
         "3 assist",
       ],
+      detail: "https://www.galatasaray.org/p/56-baran-demiroglu/647"
     },
     {
       name: "94 - Cédric Bakambu",
@@ -298,5 +327,6 @@ export const data = [
         "171 goals",
         "41 assist",
       ],
+      detail: "https://www.galatasaray.org/p/94-cedric-bakambu/3132"
     },
 ];

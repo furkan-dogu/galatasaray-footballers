@@ -2,7 +2,7 @@ import {data} from "../helper/data"
 const PlayerCard = () => {
   return (
     <>
-        {data.map(({name,img,statistics},index)=>(
+        {data.map(({name,img,statistics,detail},index)=>(
         <div key={index} className="card">
             <div className="on">
                 <img src={img} alt="" />
@@ -13,6 +13,7 @@ const PlayerCard = () => {
                 <p>⚽{statistics[1]}</p>
                 <p>⚽{statistics[2]}</p>
                 <p>⚽{statistics[3]}</p>
+                <a href={detail} rel="noreferrer" target="_blank">Detail</a>
             </div>
         </div>
         ))}

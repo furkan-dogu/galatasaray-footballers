@@ -125,4 +125,21 @@ input::placeholder {
 .arka p {
     font-size: 1.1rem;
     font-weight: 600;
+    color: rgba(245, 245, 245, 0.9);
+}
+
+.arka a {
+    text-decoration: none;
+    color: #A90432;
+    background-color: #FDB912;
+    padding: .5rem 1rem;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 18%;
+    font-weight: 500;
+    box-shadow: 0 0 5px black;
+}
+
+.arka a:hover {
+    scale: .98;
 }
