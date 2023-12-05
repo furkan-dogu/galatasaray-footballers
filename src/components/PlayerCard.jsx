@@ -1,23 +1,28 @@
-import {data} from "../helper/data"
+import { data } from "../helper/data";
 const PlayerCard = () => {
   return (
     <>
-        {data.map(({name,img,statistics,detail},index)=>(
-        <div key={index} className="card">
-            <div className="on">
-                <img src={img} alt="" />
-                <h3>{name}</h3>
+      {data.map(({ name, img, statistics, detail }, index) => (
+        <div className="cards">
+          <div key={index} className="card">
+            <div className="front">
+              <img src={img} alt="" />
+              <h3>{name}</h3>
             </div>
-            <div className="arka">
-                <p>⚽{statistics[0]}</p>
-                <p>⚽{statistics[1]}</p>
-                <p>⚽{statistics[2]}</p>
-                <p>⚽{statistics[3]}</p>
-                <a href={detail} rel="noreferrer" target="_blank">Detail</a>
+            <div className="back">
+              <>
+                {statistics.map((item) => {
+                  return <p>⚽ {item}</p>;
+                })}
+              </>
+              <a href={detail} rel="noreferrer" target="_blank">
+                Detail
+              </a>
             </div>
+          </div>
         </div>
-        ))}
+      ))}
     </>
-  )
-}
-export default PlayerCard
+  );
+};
+export default PlayerCard;
