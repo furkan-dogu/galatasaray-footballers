@@ -1,8 +1,7 @@
-import { data } from "../helper/data";
-const PlayerCard = () => {
+const PlayerCard = ({filteredData}) => {
   return (
     <>
-      {data.map(({ name, img, statistics, detail }, index) => (
+      {filteredData.map(({ name, img, statistics, detail }, index) => (
         <div className="cards">
           <div key={index} className="card">
             <div className="front">
