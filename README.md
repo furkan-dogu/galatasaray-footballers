@@ -8,6 +8,12 @@
 
 Welcome to the Galatasaray Footballers web application! This project provides a platform to explore detailed information about Galatasaray Sports Club's football players, including career statistics, photos, and personal details.
 
+## Table of Contents
+
+- [Features](#features)
+- [Project Skeleton](#project-skeleton)
+- [Screenshots](#screenshots)
+
 ## Live Demo
 
 [Galatasaray Footballers Demo](https://galatasaray-footballers.vercel.app/)
